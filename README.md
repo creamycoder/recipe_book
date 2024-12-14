@@ -18,7 +18,7 @@
 ![image](https://github.com/user-attachments/assets/72f13e2c-d9bf-469a-85c2-8a14c257ec1d)
 3. Запустите Open Server от имени администратора. Зайдите в настройки в раздел модули. Укажите версию MySQL и сохранитесь
 4. Сделайте так, чтобы версии http, php, mySQL совпадали
-![image](https://github.com/user-attachments/assets/2448e93a-9d9c-476b-b429-a127d93488cd)
+![image](https://github.com/user-attachments/assets/97f8687a-3fc4-45ee-996b-4b6c06887a39)
 6. Зайти в PhpMyAdmin и создать БД с произвольным именем
 7. Настройте файл `.env` для подключения к базе данных, как показано на скриншоте.
 ![image](https://github.com/user-attachments/assets/b6fa88aa-e5d5-4c2c-9f50-344accbca7b6)
