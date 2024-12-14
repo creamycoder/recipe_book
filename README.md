@@ -21,11 +21,12 @@
 ![image](https://github.com/user-attachments/assets/97f8687a-3fc4-45ee-996b-4b6c06887a39)
 6. Зайти в PhpMyAdmin и создать БД с произвольным именем
 7. Настройте файл `.env` для подключения к базе данных, как показано на скриншоте.
+8. Переименуйте файл .env.example .env
 ![image](https://github.com/user-attachments/assets/b6fa88aa-e5d5-4c2c-9f50-344accbca7b6)
-8. Откройте консоль OpenServer, перейдите в папку проекта, и выполните следующие команды:
-9. Установите зависимости командой `composer install`.
-10. Сгенерируйте ключ с помощью `php artisan key:generate`.
-11. Выполните миграции командой `php artisan migrate`.
+9. Откройте консоль OpenServer, перейдите в папку проекта, и выполните следующие команды:
+10. Установите зависимости командой `composer install`.
+11. Сгенерируйте ключ с помощью `php artisan key:generate`.
+12. Выполните миграции командой `php artisan migrate`.
 
 
 
